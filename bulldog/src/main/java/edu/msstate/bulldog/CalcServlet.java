@@ -14,7 +14,7 @@ public class CalcServlet extends HttpServlet
 	throws ServletException, IOException 
 	{
 		PrintWriter out = response.getWriter();
-		out.println("<h1>Simple Calculator WebApp</h1>");
+		out.println("<h1>Bulldog WebApp</h1>");
 		
 		String txtNumber1 = request.getParameter("txtNumber1");
 		String txtNumber2 = request.getParameter("txtNumber2");
