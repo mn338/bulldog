@@ -22,7 +22,7 @@
 	<input type=Radio name=operator value=add Checked>Add <BR>
 	<input type=Radio name=operator value=sub>Subtract <BR>
 	<input type=Radio name=operator value=mul>Multiply <BR>
-	<input type=Radio name=operator value=div>Multiply <BR><BR>
+	<input type=Radio name=operator value=div>Divide <BR><BR>
 	
 	<input type=Submit value="Submit">
 			
