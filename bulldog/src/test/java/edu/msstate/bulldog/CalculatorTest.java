@@ -67,7 +67,7 @@ public class CalculatorTest {
 	public void divMethodTest1() 
 	{
 		Calculator c = new Calculator();
-		int result = c.mul(10, 5);
+		int result = c.div(10, 5);
 		assertEquals(2, result);
 	}		
 	
