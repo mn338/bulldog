@@ -63,6 +63,15 @@ public class CalculatorTest {
 		assertEquals(50, result);
 	}		
 	
+	@Test
+	public void divMethodTest1() 
+	{
+		Calculator c = new Calculator();
+		int result = c.mul(10, 5);
+		assertEquals(2, result);
+	}		
+	
+	
 	
 	
 	@Test
